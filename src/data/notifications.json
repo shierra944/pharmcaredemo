@@ -1,0 +1,42 @@
+[
+  {
+    "id": "n1",
+    "title": "Low stock alert",
+    "message": "11 products are at or below reorder level.",
+    "time": "2026-10-06T08:05:00",
+    "type": "warning",
+    "read": false
+  },
+  {
+    "id": "n2",
+    "title": "Payment received",
+    "message": "Minglanilla Drugstore paid ₱15,840.",
+    "time": "2026-10-06T10:42:00",
+    "type": "success",
+    "read": false
+  },
+  {
+    "id": "n3",
+    "title": "Invoices overdue",
+    "message": "58 invoices are past their due date.",
+    "time": "2026-10-06T07:30:00",
+    "type": "danger",
+    "read": false
+  },
+  {
+    "id": "n4",
+    "title": "Products nearing expiry",
+    "message": "10 products expire within 90 days.",
+    "time": "2026-10-05T16:10:00",
+    "type": "warning",
+    "read": true
+  },
+  {
+    "id": "n5",
+    "title": "Delivery received",
+    "message": "Purchase order from Zuellig Pharma was received and stocked.",
+    "time": "2026-10-05T11:20:00",
+    "type": "info",
+    "read": true
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "businessName": "PharmaCare Drugstore & Wellness",
+  "branch": "Cebu Main Branch",
+  "currency": "PHP",
+  "asOfDate": "2026-10-06",
+  "user": {
+    "name": "Andrea Cruz",
+    "email": "admin@pharmacare.ph",
+    "role": "Store Administrator"
+  }
+}
